@@ -1,4 +1,4 @@
-# DNA-Pi-Patterns-Finder
+# DNA Pi Patterns Finder
 
 - Dare to Dream
 - Inspire Bold Leadership
